@@ -6,7 +6,18 @@
 </head>
 
 <body>
-  <img scr=" ">
+  <img scr="file:///C:/Users/emili/Downloads/Galactic%20assault%20splash%20screen.pdf">
+  
+  
+  <form action="/play" method="get">
+     <button type="submit">PLAY</button>
+  </form>
+  
+  <div>
+      <form action="/rules" method="get">
+        <button type="submit">RULES</button>
+      </form>
+  </div>
   
 </body
 
